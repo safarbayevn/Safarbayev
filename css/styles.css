@@ -1360,3 +1360,5 @@ img {
   flex-wrap: wrap;
   justify-content: center;
 }
+.nr-active{
+  display: none;
