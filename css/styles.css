@@ -1355,7 +1355,8 @@ img {
   .lang-active{
     display: block;
   }
-
-  .nr-active{
-    
-  }
+.services__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
